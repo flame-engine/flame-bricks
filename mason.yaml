@@ -1,0 +1,5 @@
+bricks:
+  sprite_component:
+    path: bricks/sprite_component
+  sprite_animation_component:
+    path: bricks/sprite_animation_component

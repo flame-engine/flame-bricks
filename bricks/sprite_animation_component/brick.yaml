@@ -1,0 +1,12 @@
+name: sprite_animation_component
+description: Created the base for a SpriteAnimationComponent
+vars:
+  - name
+  - game
+  - component_width
+  - component_height
+  - image_path
+  - frames_number
+  - step_time
+  - texture_width
+  - texture_height

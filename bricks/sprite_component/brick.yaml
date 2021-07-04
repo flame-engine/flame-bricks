@@ -1,0 +1,8 @@
+name: sprite_component
+description: Created the base for a SpriteComponent
+vars:
+  - name
+  - game
+  - width
+  - height
+  - image_path
