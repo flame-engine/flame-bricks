@@ -1,6 +1,6 @@
 # Flame Bricks 🔥🧱
 
-Flame Bricks is a collection of [Mason's](https://pub.dev/packages/mason) to help people bootstrap classes for the Flame engine.
+Flame Bricks is a collection of [Mason's](https://pub.dev/packages/mason) templates to help people bootstrap classes for the Flame engine.
 
 ## How to use
 
